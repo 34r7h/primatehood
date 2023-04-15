@@ -1,32 +1,18 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+    <p>Allow me to introduce a concept called <b>Proof of Primate</b>.</p>
+    <p>Proof of Primate is required to interact in the Apeverse. Thanks to <img style="height: 120px" src="https://global-uploads.webflow.com/62a124d5fa609b4d1aaa0385/62e015c1253c2cc783af4ace_logo.svg">, we can now prove beyond any doubt
+      that your friend is indeed the Ape they say they are!</p>
+    <p>Our native tokens are bananas. You may receive 2.5 or more bananas with every click.
+      <a download="mad_bananas.jpg"
+        href="https://groomsfarm.co.uk/wp-content/uploads/2020/04/bunch-of-bananas-on-wooden-background-GN6YMF7-scaled.jpg">Click
+        here for bananas</a>
     </p>
-    <h3>Installed CLI Plugins</h3>
-    <ul>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
-    </ul>
-    <h3>Essential Links</h3>
-    <ul>
-      <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a></li>
-      <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a></li>
-      <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Community Chat</a></li>
-      <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
-      <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
-    </ul>
-    <h3>Ecosystem</h3>
-    <ul>
-      <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">vue-router</a></li>
-      <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a></li>
-      <li><a href="https://github.com/vuejs/vue-devtools#vue-devtools" target="_blank" rel="noopener">vue-devtools</a></li>
-      <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
-      <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
-    </ul>
+    <p>Besides healthy living, bananas play an essential role in the Apeverse. Money is boring and barely cleans our digestive tract so we only accept bananas as payment, gifts, and art.</p>
+    <p>If you'd like to proove your primateness, find @34r7h around your favorite networks!</p>
+    
+
   </div>
 </template>
 
@@ -44,15 +30,17 @@ export default {
 h3 {
   margin: 40px 0 0;
 }
+
 ul {
   list-style-type: none;
   padding: 0;
 }
+
 li {
   display: inline-block;
   margin: 0 10px;
 }
+
 a {
-  color: #42b983;
-}
-</style>
+  color: #e0e92a;
+}</style>
